@@ -1,0 +1,27 @@
+/*CSS rules for p1*/
+
+body {
+	font-family: Veranda, Arial, sans-serif;
+	font-size: small;
+	background-color: orange;
+}
+
+h1 {
+	font-size:  200%;	
+	color: #0000cd;
+}
+
+h2 {
+	font-size:  130%;
+	color: #0000cd;
+}
+
+h3 {
+	font-size:  110%;
+	color: #0000cd;
+}
+
+p {
+	font-size:  90%;
+}
+
