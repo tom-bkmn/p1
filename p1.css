@@ -3,22 +3,43 @@
 body {
 	font-family: Veranda, Arial, sans-serif;
 	font-size: small;
-	background-color: orange;
+	background-color: #EBEBEB;
+}
+
+.content {
+	width: 500px;
+	padding-left: 250px;
+}
+
+
+.banner {
+	padding-top: 94px;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	background-image: url(images/modular.jpg);
+}
+
+img {
+	float: left;
+	margin-right: 10px;
 }
 
 h1 {
 	font-size:  200%;	
-	color: #0000cd;
+	color: #616161;
+	line-height: 1em;
 }
 
 h2 {
 	font-size:  130%;
-	color: #0000cd;
+	color: #616161;
+	line-height: 1em;
 }
 
 h3 {
 	font-size:  110%;
-	color: #0000cd;
+	color: #616161
 }
 
 p {
