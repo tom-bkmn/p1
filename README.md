@@ -1,9 +1,7 @@
 p1
 ==
 
-p1 assignment repository
-
-Tom Beikman's P1 assigment for Dynamic Web Applications, CSCI E-15
+###Tom Beikman's P1 assigment for Dynamic Web Applications, CSCI E-15
 
  •Live URL of the project:
  [p1.tombeikman.me](http://p1.tombeikman.me)
